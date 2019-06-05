@@ -2,12 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:Frameworks/ECCoreKit/ECCoreKit.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:Frameworks/ECTutorKit/ECTutorKit.xcodeproj">
-   </FileRef>
-   <FileRef
       location = "group:EnglishCentralApp/EnglishCentralApp.xcodeproj">
    </FileRef>
    <FileRef
